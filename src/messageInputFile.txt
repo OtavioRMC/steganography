@@ -1,0 +1,4 @@
+Trabalho entregue para a disciplina de Segurança da Informação.
+Authors:
+    - Vitor Ferraz Marini 837771
+    - Otávio Ribeiro 838807
